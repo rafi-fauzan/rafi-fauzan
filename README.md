@@ -3,7 +3,6 @@
 <h3 align="center">I’m Rafi</h1>
 <h3 align="center">A Machine Learning Enthusiast 🤖+🧠</h3>
 
-## 🖥 Technologies
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-red?style=flat-square&logo=Pytorch)
 ![Keras](https://img.shields.io/badge/-Keras-red?style=flat-square&logo=Keras)

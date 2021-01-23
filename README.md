@@ -11,6 +11,7 @@
 ![Scikit-learn](https://img.shields.io/badge/-Scikitlearn-pink?style=flat-square&logo=Scikit-learn)
 ![SQL](https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=SQL)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-orange?style=flat-square&logo=Jupyter-Notebook)
+![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
 ![Git](https://img.shields.io/badge/-Git-green?style=flat-square&logo=Git)
 ![Github](https://img.shields.io/badge/-Github-purple?style=flat-square&logo=Github)

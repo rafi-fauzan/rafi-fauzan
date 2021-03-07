@@ -1,10 +1,9 @@
-## <h2 align="center">Hi there 👋</h1>
+## <h1 align="center">Hi there 👋</h1>
 <h1 align="center"><img src="img.gif" alt="Coder GIF" width="600"></h1>
 <h3 align="center">I’m Rafi</h3>
 <h3 align="center">A Machine Learning Enthusiast</h3>
 
-<h3 align="center">💻 Technologies</h3>
-
+## 💻 Technologies
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-red?style=flat-square&logo=Pytorch)
 ![Keras](https://img.shields.io/badge/-Keras-red?style=flat-square&logo=Keras)
@@ -18,6 +17,5 @@
 ![Git](https://img.shields.io/badge/-Git-green?style=flat-square&logo=Git)
 ![Github](https://img.shields.io/badge/-Github-purple?style=flat-square&logo=Github)
 
-<h3 align="center">✉ Reach out to me at </h3>
-
+## ✉ Reach out to me at
 [![Gmail](https://img.shields.io/badge/-ahmadrafiansyahfauzan@gmail.com-212121?style=flat-square&logo=Gmail&logoColor=red)](mailto:ahmadrafiansyahfauzan@gmail.com)

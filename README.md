@@ -3,13 +3,13 @@
 <h3 align="center">I’m Rafi</h3>
 <h3 align="center">A Machine Learning Enthusiast</h3>
 
-## 💻 Technologies
+## 💻 Tools
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-red?style=flat-square&logo=Pytorch)
 ![Keras](https://img.shields.io/badge/-Keras-red?style=flat-square&logo=Keras)
 ![Numpy](https://img.shields.io/badge/-Numpy-purple?style=flat-square&logo=Numpy)
-![Pandas](https://img.shields.io/badge/-Pandas-blue?style=flat-square&logo=Pandas)
 ![Scikit-learn](https://img.shields.io/badge/-Scikitlearn-pink?style=flat-square&logo=Scikit-learn)
+![Pandas](https://img.shields.io/badge/-Pandas-blue?style=flat-square&logo=Pandas)
 ![SQL](https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=SQL)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-orange?style=flat-square&logo=Jupyter-Notebook)
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=Docker)

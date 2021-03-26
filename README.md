@@ -5,7 +5,7 @@
 
 ### 💻 Tools
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python)
-![Pytorch](https://img.shields.io/badge/-Pytorch-red?style=flat-square&logo=Pytorch)
+![Pytorch](https://img.shields.io/badge/-Pytorch-pink?style=flat-square&logo=Pytorch)
 ![Keras](https://img.shields.io/badge/-Keras-red?style=flat-square&logo=Keras)
 ![Numpy](https://img.shields.io/badge/-Numpy-blue?style=flat-square&logo=Numpy)
 ![Scikit-learn](https://img.shields.io/badge/-Scikitlearn-pink?style=flat-square&logo=Scikit-learn)

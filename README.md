@@ -1,6 +1,6 @@
-## <h3 align="center">Hi there 👋</h3>
+## <h2 align="center">Hi there 👋</h2>
 <h1 align="center"><img src="img.gif" alt="Coder GIF" width="600"></h1>
-<h4 align="center">I’m Rafi, a machine learning enthusiast</h4>
+<h3 align="center">I’m Rafi, a machine learning enthusiast</h3>
 
 ### 💻 Tools
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python)

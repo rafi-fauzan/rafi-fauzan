@@ -1,4 +1,4 @@
-## <h1 align="center">Hi there 👋</h1>
+## <h3 align="center">Hi there 👋</h3>
 <h1 align="center"><img src="img.gif" alt="Coder GIF" width="600"></h1>
 <h4 align="center">I’m Rafi</h4>
 <h4 align="center">A Machine Learning Enthusiast</h4>

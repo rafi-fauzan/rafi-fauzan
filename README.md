@@ -1,5 +1,5 @@
 ## <h2 align="center">Hi there 👋</h2>
-<h1 align="center"><img src="img.gif" alt="Coder GIF" width="600"></h1>
+<h1 align="center"><img src="img.gif" alt="Coder GIF" width="500"></h1>
 <h3 align="center">I’m Rafi, a machine learning enthusiast</h3>
 
 ### 💻 Tools
